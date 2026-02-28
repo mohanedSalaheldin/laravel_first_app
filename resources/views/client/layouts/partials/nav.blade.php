@@ -14,7 +14,7 @@
 
             <ul class="navbar-nav ms-auto align-items-center">
                 <li class="nav-item">
-                    <a class="nav-link" href="login.html">
+                    <a class="nav-link" href="{{ route('login') }}">
                         <div style="line-height: 1.2;">
                             <small style="font-size: 11px;">Hello, Sign in</small><br>
                             <span style="font-weight: 700;">Account & Lists</span>
